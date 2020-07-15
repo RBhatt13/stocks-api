@@ -7,10 +7,10 @@ stcks-api is an application server library that allows to perform following oper
 
 ## Installation
 
-Install NodeJS 
-npm install request
-npm install cheerio
-npm install edit-google-spreadsheet
+Install NodeJS and following packages
+- npm install request
+- npm install cheerio
+- npm install edit-google-spreadsheet
 
 Download and install mongodb package:
 C:\Users\Your Name>npm install mongodb
