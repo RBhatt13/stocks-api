@@ -20,5 +20,7 @@ npm install csvtojson
 
 ## Run
 node upload-bulkdata-mongodb.js
+
 node get-data-by-stockticker.js
+
 node add-record-mongodb.js
